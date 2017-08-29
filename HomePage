@@ -1,0 +1,380 @@
+<html><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1">
+        <!-- title -->
+        <title>LeadGen - Multipurpose Landing Page Pack with Page Builder</title>
+        <meta name="description" content="lgdescription">
+        <meta name="keywords" content="lgkeywords">
+        <meta name="author" content="lgauthor">
+        <!-- favicon -->
+        <link rel="shortcut icon" href="images/icon/favicon.png">
+        <!-- animation -->
+        <link rel="stylesheet" href="css/animate.css">
+        <!-- bootstrap -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <!-- font-awesome icon -->
+        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <!-- themify-icons -->
+        <link rel="stylesheet" href="css/themify-icons.css">
+        <!-- owl carousel -->
+        <link rel="stylesheet" href="css/owl.transitions.css">
+        <link rel="stylesheet" href="css/owl.carousel.css"> 
+        <!-- magnific popup -->
+        <link rel="stylesheet" href="css/magnific-popup.css"> 
+        <!-- base -->
+        <link rel="stylesheet" href="css/base.css"> 
+        <!-- elements -->
+        <link rel="stylesheet" href="css/elements.css">
+        <!-- responsive -->
+        <link rel="stylesheet" href="css/responsive.css">
+        <!--[if IE]>
+            <script src="js/html5shiv.min.js"></script>
+        <![endif]-->
+
+    <style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
+    <body>
+
+        <div id="page" class="page"><header class="header-style4" id="header-section9">
+                <!-- nav -->
+                <nav class="navbar bg-white white-header alt-font no-margin no-padding shrink-medium-header light-header">
+                    <div class="header-top bg-light-gray tz-header-bg">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12 col-sm-12 col-xs-12">
+                                    <div class="mail"><span class="tz-text"><b>CALL US:&nbsp;</b></span> <a href="mailto:no-reply@domain.com" class="text-light-gray tz-text"><b>1 (844) 803-7516</b></a></div>
+                                    <!-- social elements -->
+                                    <div class="social float-right">
+                                        <a href="#"><i class="fa fa-facebook tz-icon-color"></i></a>
+                                        <a href="#"><i class="fa fa-twitter tz-icon-color"></i></a>
+                                        <a href="#"><i class="fa fa-google-plus tz-icon-color"></i></a>
+                                        <a href="#"><i class="fa fa-linkedin tz-icon-color"></i></a>
+                                        <a href="#"><i class="fa fa-pinterest tz-icon-color"></i></a>
+                                    </div>
+                                    <!-- end social elements -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="header-bottom bg-white tz-header-bg">
+                        <div class="container navigation-menu">
+                            <div class="row">
+                                <!-- logo -->
+                                <div class="col-md-3 col-sm-4 col-xs-9">
+                                    <a href="#home" class="inner-link"><img alt="" src="images/uploads/CreditNow360-logo-sm.png" data-img-size="(W)163px X (H)39px" id="ui-id-9" style="border-radius: 0px; border-color: rgb(78, 78, 78); border-style: none; border-width: 1px !important;"></a>
+                                </div>
+                                <!-- end logo -->
+                                <div class="col-md-9 col-sm-8 col-xs-3 position-inherit">
+                                    <button data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                    </button>
+                                    <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse pull-right">
+                                        <ul class="nav navbar-nav font-weight-500">
+                                            <li class="propClone"><a class="inner-link" href="#">Auto Loans</a></li>
+                                            <li class="propClone"><a class="inner-link" href="#">Home Purchase</a></li>
+                                            <li class="propClone"><a class="inner-link" href="#">Home Refinance</a></li>
+                                            <li class="propClone"><a class="inner-link" href="#">Insurance</a></li>
+                                            <li class="propClone"><a class="inner-link" href="#">Credit Resources</a></li>
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </nav> 
+                <!-- end nav -->
+            </header><section class="no-padding position-relative cover-background tz-builder-bg-image border-none hero-style2" id="hero-section3" data-img-size="(W)1920px X (H)800px" style="padding-top: 0px; padding-bottom: 0px; background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(&quot;images/uploads/twenty20comp_fc969f04-74a3-4241-a1ba-e0a2c3fc4280.jpg&quot;);">
+                    <div class="container one-fourth-screen position-relative">
+                        <div class="row">
+                            <div class="slider-typography text-center xs-position-static">
+                                <div class="slider-text-middle-main">
+                                    <div class="slider-text-middle text-left xs-padding-60px-tb equalize xs-equalize-auto">
+                                        <!-- contact form -->
+                                        <div class="col-md-5 col-sm-5 col-xs-12 position-relative xs-margin-twenty-bottom display-table" style="height: 497px;">
+                                            <div class="display-table-cell-vertical-middle">
+                                                <div class="bg-white tz-background-color padding-seventeen border-radius-6 text-center xs-padding-thirteen">
+                                                    <h6 class="alt-font margin-twenty-bottom font-weight-500 tz-text">The Financing You Deserve Is Within Reach</h6>
+                                                    <form action="javascript:void(0)" method="post">
+                                                        <input type="text" name="name" id="name" data-email="required" placeholder="*Your Name" class="medium-input border-radius-4">
+                                                        <input type="text" name="email" id="email" data-email="required" placeholder="*Your Email" class="medium-input border-radius-4">
+                                                        <input type="text" name="phone" id="phone" placeholder="Your Phone" class="medium-input border-radius-4">
+                                                        <textarea name="comment" id="comment" placeholder="Your Message" class="medium-input border-radius-4"></textarea>
+                                                        <button type="submit" class="contact-submit btn btn-large propClone bg-fast-blue text-white display-block width-100">GET STARTED TODAY FOR FREE!</button>                                                
+                                                    </form>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- end contact form -->
+                                        <!-- slider text -->
+                                        <div class="col-md-6 col-sm-7 col-xs-12 col-md-offset-1 display-table xs-text-center" style="height: 497px;">
+                                            <div class="display-table-cell-vertical-middle">
+                                                <h1 class="sm-title-extra-large xs-title-extra-large alt-font title-extra-large-2 line-height-55 text-white tz-text margin-seventeen-bottom">Make the Best Decision - and SAVE Money!</h1>
+                                                <div class="col-md-12 col-sm-12 col-xs-12 no-padding-lr margin-thirteen-bottom padding-seven-bottom xs-margin-fifteen-bottom border-bottom-light tz-border">
+                                                    <div class="vertical-align-middle float-left xs-display-none header-number tz-border"><span class="title-small alt-font text-white tz-text line-height-inherit">01</span></div>
+                                                    <div class="info margin-twenty-seven-left xs-no-margin sm-margin-twenty-nine-left xs-width-100 xs-clear-both">
+                                                        <h3 class="text-extra-large margin-two-bottom text-white vertical-align-middle xs-margin-five-bottom xs-text-extra-large alt-font tz-text font-weight-400">Good Credit or Bad Credit - No Problem!</h3>
+                                                        <span class="text-medium text-white vertical-align-middle display-block width-85 sm-width-100 tz-text">Lorem Ipsum is simply dummy text of the printing and typesetting. Lorem Ipsum has been he standard dummy.</span>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-12 col-sm-12 col-xs-12 no-padding-lr">
+                                                    <div class="vertical-align-middle float-left xs-display-none header-number tz-border"><span class="title-small alt-font text-white tz-text line-height-inherit">02</span></div>
+                                                    <div class="info margin-twenty-seven-left xs-no-margin sm-margin-twenty-nine-left xs-width-100 xs-clear-both">
+                                                        <h3 class="text-extra-large margin-two-bottom text-white vertical-align-middle xs-margin-five-bottom xs-text-extra-large alt-font tz-text font-weight-400">Committed To Your Privacy</h3>
+                                                        <span class="text-medium text-white vertical-align-middle display-block width-85 sm-width-100 tz-text">Lorem Ipsum is simply dummy text of the printing and typesetting. Lorem Ipsum has been he standard dummy.</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- end slider text -->
+                                    </div>                                
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </section><section id="tab-section4" class="bg-white builder-bg padding-110px-tb xs-padding-60px-tb">
+                <div class="container">
+                    <div class="row">
+                        <!-- section title -->
+                        <div class="col-md-12 col-sm-12 col-xs-12 text-center">
+                            <h2 class="section-title-large sm-section-title-medium xs-section-title-large text-dark-gray font-weight-600 alt-font margin-three-bottom xs-margin-fifteen-bottom tz-text">Why Choose CreditNow 360?</h2>
+                            <div class="text-medium width-60 margin-lr-auto md-width-70 md-width-100 tz-text margin-thirteen-bottom xs-margin-twenty-seven-bottom">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
+                        </div>
+                        <!-- section title -->                        
+                        <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12"> 
+                            <div class="tab-style1">
+                                <!-- tab navigation -->
+                                <ul class="nav nav-tabs margin-six-bottom xs-margin-fifteen-bottom text-small alt-font">
+                                    <li class="active"><a data-toggle="tab" href="#tab_sec1"><span class="tz-text">COMPANY MISSION</span></a></li>
+                                    <li><a data-toggle="tab" href="#tab_sec2" style=""><span class="tz-text">WHY CHOOSE US</span></a></li>
+                                    <li><a data-toggle="tab" href="#tab_sec3" style=""><span class="tz-text">OUR PROMISE</span></a></li>
+                                    <li><a data-toggle="tab" href="#tab_sec4"><span class="tz-text">WHAT WE DO</span></a></li>
+                                </ul>
+                                <!-- tab end navigation -->                                
+                                <div class="tab-content">
+                                    <!-- tab content -->
+                                    <div id="tab_sec1" class="tab-pane fade in active">
+                                        <div class="row">
+                                            <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
+                                                <h3 class="alt-font text-dark-gray margin-six-bottom md-margin-three-bottom xs-title-extra-large-2 tz-text">Experiences</h3>
+                                                <h5 class="text-dark-gray font-weight-300 width-90 sm-width-100 xs-title-medium md-margin-five-bottom xs-margin-eleven-bottom tz-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h5>
+                                            </div>
+                                            <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 md-margin-nine-bottom xs-margin-fifteen-bottom">
+                                                <div class="width-80 md-width-100 text-medium tz-text"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley type scrambled it to make a type specimen book. It has survived not only five centuries, but the leap into electronic typesetting, remaining essentially unchanged.</p></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- end tab content -->
+                                    <!-- tab content -->
+                                    <div id="tab_sec2" class="tab-pane fade in">
+                                        <div class="row">
+                                            <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
+                                                <h3 class="alt-font text-dark-gray margin-six-bottom md-margin-three-bottom xs-title-extra-large-2 tz-text">Leadership</h3>
+                                                <h5 class="text-dark-gray font-weight-300 width-90 sm-width-100 xs-title-medium md-margin-five-bottom xs-margin-eleven-bottom tz-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h5>
+                                            </div>
+                                            <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 md-margin-nine-bottom xs-margin-fifteen-bottom">
+                                                <div class="width-80 md-width-100 text-medium tz-text"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley type scrambled it to make a type specimen book. It has survived not only five centuries, but the leap into electronic typesetting, remaining essentially unchanged.</p></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- end tab content -->
+                                    <!-- tab content -->
+                                    <div id="tab_sec3" class="tab-pane fade in">
+                                        <div class="row">
+                                            <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
+                                                <h3 class="alt-font text-dark-gray margin-six-bottom md-margin-three-bottom xs-title-extra-large-2 tz-text">Expertise</h3>
+                                                <h5 class="text-dark-gray font-weight-300 width-90 sm-width-100 xs-title-medium md-margin-five-bottom xs-margin-eleven-bottom tz-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h5>
+                                            </div>
+                                            <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 md-margin-nine-bottom xs-margin-fifteen-bottom">
+                                                <div class="width-80 md-width-100 text-medium tz-text"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley type scrambled it to make a type specimen book. It has survived not only five centuries, but the leap into electronic typesetting, remaining essentially unchanged.</p></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- end tab content -->
+                                    <!-- tab content -->
+                                    <div id="tab_sec4" class="tab-pane fade in">
+                                        <div class="row">
+                                            <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
+                                                <h3 class="alt-font text-dark-gray margin-six-bottom md-margin-three-bottom xs-title-extra-large-2 tz-text">Experiences</h3>
+                                                <h5 class="text-dark-gray font-weight-300 width-90 sm-width-100 xs-title-medium md-margin-five-bottom xs-margin-eleven-bottom tz-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h5>
+                                            </div>
+                                            <div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 md-margin-nine-bottom xs-margin-fifteen-bottom">
+                                                <div class="width-80 md-width-100 text-medium tz-text"><p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley type scrambled it to make a type specimen book. It has survived not only five centuries, but the leap into electronic typesetting, remaining essentially unchanged.</p></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- end tab content -->
+                                </div>
+                            </div>
+                        </div>                        
+                        <!-- highlight section -->
+                        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 bg-deep-green padding-seven sm-padding-ten xs-padding-twenty tz-background-color" id="ui-id-16">
+                            <div class="col-md-12 col-sm-12 col-xs-12 no-padding">
+                                <h4 class="text-white alt-font text-transform-none font-weight-400 margin-fifteen-bottom md-margin-five-bottom xs-margin-ten-bottom tz-text">We deliver the high quality landing page.</h4>
+                                <div class="text-white text-medium display-block margin-eighteen-bottom sm-margin-eight-bottom tz-text"><p>Lorem Ipsum is simply dummy text of the printing typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever galley.</p></div>
+                                <a href="#" class="btn-medium btn-circle btn border-2-white btn-border text-white"><span class="tz-text">MEET PEOPLE</span><i class="fa fa-long-arrow-right icon-extra-small tz-icon-color"></i></a>
+                            </div>                            
+                        </div>
+                        <!-- end highlight section -->
+                    </div>
+                </div>
+            </section><section id="testimonials-section1" class="cover-background tz-builder-bg-image padding-110px-tb border-none xs-padding-top-60px" data-img-size="(W)1920px X (H)573px" style="background-image:linear-gradient(rgba(20, 20, 20, 0.95), rgba(20, 20, 20, 0.7)), url('images/uploads/testimonialfamily.jpg')">
+                <div class="container position-relative">
+                    <div class="row">
+                        <div class="owl-slider-full owl-carousel owl-theme light-pagination owl-pagination-bottom xs-no-owl-buttons">
+                            <!-- testimonial item -->
+                            <div class="item">
+                                <div class="col-md-6 col-sm-8 col-xs-12 center-col text-center">
+                                    <i class="tz-icon-color fa fa-quote-left text-golden-yellow title-extra-large margin-seven-bottom" id="tz-icon-1"></i>
+                                    <div class="text-medium text-medium-gray margin-five-bottom tz-text" id="tz-slider-text67">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</div>
+                                    <div class="text-white alt-font margin-seven-bottom display-block tz-text" id="tz-slider-text68">JOHN CARMACK - GOOGLE</div>
+                                    <div class="separator-line bg-golden-yellow margin-lr-auto tz-background-color" id="tz-br-14"></div>
+
+                                </div>
+                            </div>
+                            <!-- end testimonial item -->
+                            <!-- testimonial item -->
+                            <div class="item">
+                                <div class="col-md-6 col-sm-8 col-xs-12 center-col text-center">
+                                    <i class="tz-icon-color fa fa-quote-left text-golden-yellow title-extra-large margin-seven-bottom" id="tz-icon-2"></i>
+                                    <div class="text-medium text-medium-gray margin-five-bottom tz-text" id="tz-slider-text69">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</div>
+                                    <div class="text-white alt-font margin-seven-bottom display-block tz-text" id="tz-slider-text70">JEREMY GIRARD - MICROSOFT</div>
+                                    <div class="separator-line bg-golden-yellow margin-lr-auto tz-background-color" id="tz-br-15"></div>
+                                </div>
+                            </div>
+                            <!-- end testimonial item -->
+                            <!-- testimonial item -->
+                            <div class="item">
+                                <div class="col-md-6 col-sm-8 col-xs-12 center-col text-center">
+                                    <i class="tz-icon-color fa fa-quote-left text-golden-yellow title-extra-large margin-seven-bottom" id="tz-icon-3"></i>
+                                    <div class="text-medium text-medium-gray margin-five-bottom tz-text" id="tz-slider-text71">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting.</div>
+                                    <div class="text-white alt-font margin-seven-bottom display-block tz-text" id="tz-slider-text72">PAUL SCRIVENS - FACEBOOK</div>
+                                    <div class="separator-line bg-golden-yellow margin-lr-auto tz-background-color" id="tz-br-15"></div>
+                                </div>
+                            </div>
+                            <!-- end testimonial item -->
+                        </div>
+                    </div>
+                </div>
+            </section><section class="padding-110px-tb xs-padding-60px-tb bg-light-gray border-none builder-bg" id="content-section38">
+                <div class="container">
+                    <!-- section title -->
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12 col-xs-12 text-center">
+                            <h2 class="section-title-large sm-section-title-medium xs-section-title-large text-dark-gray font-weight-600 alt-font margin-three-bottom xs-margin-fifteen-bottom tz-text">Quick Links To Our Most Popular Services</h2>
+                            <div class="text-medium width-60 margin-lr-auto md-width-70 sm-width-100 tz-text margin-thirteen-bottom xs-margin-nineteen-bottom">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
+                        </div>
+                    </div>
+                    <!-- end section title -->
+                    <div class="row equalize xs-equalize-auto">
+                        <!-- feature box -->
+                        <div class="col-md-4 col-sm-4 col-xs-12 text-center xs-margin-nine-bottom display-table" style="height: 401px;">
+                                <div class="border-radius-6 box-shadow bg-white builder-bg padding-twenty-seven sm-padding-eleven xs-padding-seventeen xs-width-100 display-table-cell-vertical-middle">
+                                    <span class="text-dark-gray margin-two-bottom display-block tz-text">Auto Loans</span>
+                                    <h3 class="title-medium font-weight-300 text-pink margin-eighteen-bottom tz-text " id="ui-id-10" style="background-color: rgba(0, 0, 0, 0); font-size: 24px; font-weight: 300; font-family: &quot;Open Sans&quot;, sans-serif; text-transform: none; border-radius: 0px; color: rgb(68, 68, 68) !important;"><b>Buy a New or Used Car</b></h3>
+                                    <div class="text-medium margin-twenty-three-bottom tz-text"><p>Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been industry's standard dummy text ever since. Lorem Ipsum is simply text.</p></div>
+                                    <a class="btn btn-medium propClone bg-pink text-white btn-circle" href="#" id="ui-id-13" style="color: rgb(255, 255, 255); border-color: rgba(0, 0, 0, 0); font-size: 12px; font-weight: 500; font-family: Montserrat, sans-serif; text-transform: none; border-radius: 30px; background-color: rgb(0, 0, 255) !important;"><span class="tz-text">READ MORE</span></a>
+                                </div>
+                            </div>
+                        <!-- end feature box -->
+                        <!-- feature box -->
+                        <div class="col-md-4 col-sm-4 col-xs-12 text-center xs-margin-nine-bottom display-table" style="height: 401px;">
+                                <div class="border-radius-6 box-shadow bg-white builder-bg padding-twenty-seven sm-padding-eleven xs-padding-seventeen xs-width-100 display-table-cell-vertical-middle">
+                                    <span class="text-dark-gray margin-two-bottom display-block tz-text">Home Lending</span>
+                                    <h3 class="title-medium font-weight-300 text-pink margin-eighteen-bottom tz-text " id="ui-id-11" style="background-color: rgba(0, 0, 0, 0); font-size: 24px; font-weight: 300; font-family: &quot;Open Sans&quot;, sans-serif; text-transform: none; border-radius: 0px; color: rgb(68, 68, 68) !important;"><b>Buy or Refinace a House</b></h3>
+                                    <div class="text-medium margin-twenty-three-bottom tz-text"><p>Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been industry's standard dummy text ever since. Lorem Ipsum is simply text.</p></div>
+                                    <a class="btn btn-medium propClone bg-pink text-white btn-circle" href="#" id="ui-id-14" style="color: rgb(255, 255, 255); border-color: rgba(0, 0, 0, 0); font-size: 12px; font-weight: 500; font-family: Montserrat, sans-serif; text-transform: none; border-radius: 30px; background-color: rgb(0, 0, 255) !important;"><span class="tz-text">READ MORE</span></a>
+                                </div>
+                        </div>
+                        <!-- end feature box -->
+                        <!-- feature box -->
+                        <div class="col-md-4 col-sm-4 col-xs-12 text-center xs-margin-nine-bottom display-table" style="height: 401px;">
+                                <div class="border-radius-6 box-shadow bg-white builder-bg padding-twenty-seven sm-padding-eleven xs-padding-seventeen xs-width-100 display-table-cell-vertical-middle">
+                                    <span class="text-dark-gray margin-two-bottom display-block tz-text">Insurance</span>
+                                    <h3 class="title-medium font-weight-300 text-pink margin-eighteen-bottom tz-text " id="ui-id-12" style="background-color: rgba(0, 0, 0, 0); font-size: 24px; font-weight: 300; font-family: &quot;Open Sans&quot;, sans-serif; text-transform: none; border-radius: 0px; color: rgb(68, 68, 68) !important;"><b>Buy Auto or House Insurance</b></h3>
+                                    <div class="text-medium margin-twenty-three-bottom tz-text"><p>Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been industry's standard dummy text ever since. Lorem Ipsum is simply text.</p></div>
+                                    <a class="btn btn-medium propClone bg-pink text-white btn-circle" href="#" id="ui-id-15" style="color: rgb(255, 255, 255); border-color: rgba(0, 0, 0, 0); font-size: 12px; font-weight: 500; font-family: Montserrat, sans-serif; text-transform: none; border-radius: 30px; background-color: rgb(0, 0, 255) !important;"><span class="tz-text">READ MORE</span></a>
+                                </div>
+                        </div>
+                        <!-- end feature box -->
+                    </div>
+                </div>
+            </section><!-- footer section -->
+            <footer id="footer-section6" class="bg-white padding-60px-tb xs-padding-40px-tb builder-bg">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12 col-xs-12 text-center margin-five-bottom padding-five-bottom border-bottom-medium-dark tz-border">
+                            <ul class=" display-inline alt-font font-weight-500">
+                                <li class="propClone display-inline margin-ten-right"><a class="inner-link tz-text" href="#">Car Loans</a></li>
+                                <li class="propClone display-inline margin-ten-right"><a class="inner-link tz-text" href="#">Home Purchase</a></li>
+                                <li class="propClone display-inline margin-ten-right"><a class="inner-link tz-text" href="#">Home Refinance</a></li>
+                                <li class="propClone display-inline margin-ten-right"><a class="inner-link tz-text" href="#">Insurance</a></li>
+                                <li class="propClone display-inline"><a class="inner-link tz-text" href="#">FAQ's</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-md-12 col-sm-12 col-xs-12 text-center margin-four-bottom">
+                            <div class="social social-icon-color title-small">
+                                <a href="#" class="margin-eight-right">
+                                    <i class="fa fa-facebook tz-icon-color"></i>
+                                </a>
+                                <a href="#" class="margin-eight-right">
+                                    <i class="fa fa-twitter tz-icon-color"></i>
+                                </a>
+                                <a href="#" class="margin-eight-right">
+                                    <i class="fa fa-google-plus tz-icon-color"></i>
+                                </a>
+                                <a href="#" class="margin-eight-right">
+                                    <i class="fa fa-pinterest tz-icon-color"></i>
+                                </a>
+                                <a href="#" class="margin-eight-right">
+                                    <i class="fa fa-linkedin tz-icon-color"></i>
+                                </a>
+                                <a href="#">
+                                    <i class="fa fa-youtube tz-icon-color"></i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-md-12 col-sm-12 col-xs-12 text-center">
+                            <p class="tz-text no-margin-bottom">© 2016 CreditNow 360</p>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <!-- end footer --></div><!-- /#page -->
+
+
+        <!-- javascript libraries -->
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+        <script type="text/javascript" src="js/jquery.appear.js"></script>
+        <script type="text/javascript" src="js/smooth-scroll.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+        <!-- wow animation -->
+        <script type="text/javascript" src="js/wow.min.js"></script>
+        <!-- owl carousel -->
+        <script type="text/javascript" src="js/owl.carousel.min.js"></script>        
+        <!-- images loaded -->
+        <script type="text/javascript" src="js/imagesloaded.pkgd.min.js"></script>
+        <!-- isotope -->
+        <script type="text/javascript" src="js/jquery.isotope.min.js"></script> 
+        <!-- magnific popup -->
+        <script type="text/javascript" src="js/jquery.magnific-popup.min.js"></script>
+        <!-- navigation -->
+        <script type="text/javascript" src="js/jquery.nav.js"></script>
+        <!-- equalize -->
+        <script type="text/javascript" src="js/equalize.min.js"></script>
+        <!-- fit videos -->
+        <script type="text/javascript" src="js/jquery.fitvids.js"></script>
+        <!-- number counter -->
+        <script type="text/javascript" src="js/jquery.countTo.js"></script>
+        <!-- time counter  -->
+        <script type="text/javascript" src="js/counter.js"></script>
+        <!-- twitter Fetcher  -->
+        <script type="text/javascript" src="js/twitterFetcher_min.js"></script>
+        <!-- main -->
+        <script type="text/javascript" src="js/main.js"></script>
+    
+
+</body></html>
